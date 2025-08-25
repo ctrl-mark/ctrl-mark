@@ -1,6 +1,6 @@
 ctrl-mark ⌨️
 =======
-Hello, my name is Mark. I am a technical support specialist with an education in software and web development. 
+Hello, my name is Mark. I am a technical support specialist with an education in software development. I like to develop websites, bots, and APIs in my spare time.
 
 - 💻 I’m currently working on frontend development projects. 
 - :fire: I am open to collaborating with others. 
